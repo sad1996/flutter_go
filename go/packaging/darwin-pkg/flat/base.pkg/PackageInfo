@@ -1,0 +1,5 @@
+<pkg-info format-version="2" identifier="com.nowappstech.base.pkg" version="1.0.0+1" install-location="/" auth="root">
+	<bundle-version>
+		<bundle id="com.nowappstech" CFBundleIdentifier="com.nowappstech" path="./Applications/flutter_go.app" CFBundleVersion="1.0.0+1"/>
+    </bundle-version>
+</pkg-info>
